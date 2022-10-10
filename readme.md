@@ -19,4 +19,4 @@
  
  
 <a href="https://github.com/Adrian-Fernandez-Rosa/cssAvanzado/tree/3662afaa93edee8bc9d29d51a9c83334903f5fc7/34%20position" 
- target="_blank">Posistion Relative</a>
+ target="_blank">Position Relative</a>
