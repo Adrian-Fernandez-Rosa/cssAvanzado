@@ -27,3 +27,11 @@
 
 <a href="https://github.com/Adrian-Fernandez-Rosa/cssAvanzado/tree/1d9216b75453ca74f3c5a98afc8cf15d6f24ef33/34%20position" 
  target="_blank">Position Absolute</a>
+
+
+## Video 36 Position Fixed
+
+https://github.com/Adrian-Fernandez-Rosa/cssAvanzado/tree/f4234ce10761c187ba8026adb05bbee115cee08d/34%20position
+
+<a href="https://github.com/Adrian-Fernandez-Rosa/cssAvanzado/tree/f4234ce10761c187ba8026adb05bbee115cee08d/34%20position" 
+ target="_blank">Position Fixed</a>
