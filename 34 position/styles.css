@@ -34,6 +34,7 @@ body{
     margin: 0;
     background-color: #333;
     padding-top: 70px; 
+    color: white;
     /* para que el menu no tape contenido se da padding */
 }
 
@@ -43,7 +44,10 @@ body{
     text-align: center;
 }
 
-
+img {
+    width: 100%;
+    display: block;
+}
 
 .container{
     width: 300px;
@@ -70,14 +74,33 @@ body{
 
 .header {
     text-align:center;
-    padding: 25px 0;
+    /* padding: 25px 0; */
     background-color: lightblue;
     color: orangered;
-    position: fixed;
+    /* position: fixed;
     top: 0;
-    width: 100%;
-    
+    width: 100%; */
+    /* position: sticky;
+    top: 0;
+     */
+     height: 200px;
+}
 
+.menu {
+    position: sticky;
+    top: 0;
+  
+}
+
+article {
+    outline: 3px solid red;
+}
+
+.article-title{
+    position: sticky;
+    top: 0;
+
+    background-color: #333;
 }
 
 .box-2 {

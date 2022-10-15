@@ -33,3 +33,9 @@
 
 <a href="https://github.com/Adrian-Fernandez-Rosa/cssAvanzado/tree/f4234ce10761c187ba8026adb05bbee115cee08d/34%20position" 
  target="_blank">Position Fixed</a>
+
+
+## Video 38 Position Sticky
+
+https://www.youtube.com/watch?v=eRfJeAwlCk0&list=PLROIqh_5RZeDbvISffzihyxzqJBt_z3-Z&index=39&ab_channel=DorianDesings
+
