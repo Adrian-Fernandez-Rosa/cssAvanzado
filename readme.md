@@ -39,3 +39,7 @@
 
 https://www.youtube.com/watch?v=eRfJeAwlCk0&list=PLROIqh_5RZeDbvISffzihyxzqJBt_z3-Z&index=39&ab_channel=DorianDesings
 
+
+
+<a href="https://github.com/Adrian-Fernandez-Rosa/cssAvanzado/tree/d25f0490f19e7c284eacbffebb362701e0fc158c/34%20position" 
+ target="_blank">Position Sticky</a>
