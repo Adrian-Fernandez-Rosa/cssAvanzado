@@ -57,20 +57,7 @@ img {
   
 }
 
-.box-1{
-    background-color:lightcoral;
-    position:absolute;
 
-   
-  right:0;
-  bottom:0;
-    /* si top existe bottom se ignora 
-    lo mismo sucede con right o left solo funciona una, no ambas */
-    /* top: 50px;
-    bottom: 25px; */
-  
-
-}
 
 .header {
     text-align:center;
@@ -103,16 +90,33 @@ article {
     background-color: #333;
 }
 
-.box-2 {
-    background-color:lightgreen;
-    position: absolute; 
-   
-    right:0;
-    bottom:0;
- 
-    /* con position absolute perdio sus medidas */
-  
-}
+.box-1 {
+    background-color: lightcoral;
+    position: relative;
+    left: 150px;
+    z-index: -1;
+  }
+
+  .box-1-2 {
+    background-color: aquamarine;
+    position: relative;
+    left: 150px;
+    top: -25px;
+    z-index: -2;
+  }
+
+  .box-2 {
+    background-color: lightgreen;
+    position: relative;
+    top: 50px;
+    z-index: 20;
+  }
+
+  .box-3 {
+    background-color: lightseagreen;
+    position: relative;
+    z-index: 10;
+  }
 
 .link{
     background-color:lime;
