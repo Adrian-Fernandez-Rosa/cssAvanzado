@@ -54,3 +54,16 @@ https://www.youtube.com/watch?v=kSQeLmPwrt4&list=PLROIqh_5RZeDbvISffzihyxzqJBt_z
 
 <a href="https://github.com/Adrian-Fernandez-Rosa/cssAvanzado/tree/8c2c0812454b1ba4dccc708621de6afe291dfdff/40%20Stacking%20context" 
  target="_blank">Stacking Context</a>
+
+
+https://github.com/Adrian-Fernandez-Rosa/cssAvanzado/blob/master/41%20ordenar%20propiedades/propiedades.css
+
+
+## Video 41 Ordenar Propiedades
+
+
+
+
+
+<a href="https://github.com/Adrian-Fernandez-Rosa/cssAvanzado/blob/master/41%20ordenar%20propiedades/propiedades.css" 
+ target="_blank">Ordenar propiedades</a>
