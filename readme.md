@@ -43,3 +43,14 @@ https://www.youtube.com/watch?v=eRfJeAwlCk0&list=PLROIqh_5RZeDbvISffzihyxzqJBt_z
 
 <a href="https://github.com/Adrian-Fernandez-Rosa/cssAvanzado/tree/d25f0490f19e7c284eacbffebb362701e0fc158c/34%20position" 
  target="_blank">Position Sticky</a>
+
+
+
+## Video 40 Stacking Context
+
+https://www.youtube.com/watch?v=kSQeLmPwrt4&list=PLROIqh_5RZeDbvISffzihyxzqJBt_z3-Z&index=41&ab_channel=DorianDesings
+
+
+
+<a href="https://github.com/Adrian-Fernandez-Rosa/cssAvanzado/tree/8c2c0812454b1ba4dccc708621de6afe291dfdff/40%20Stacking%20context" 
+ target="_blank">Stacking Context</a>
