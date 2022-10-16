@@ -27,10 +27,12 @@
   WIDTH:
     % -> Cuando usamos porcentaje usamos de referencia el tamaño del contenedor y el navegador calcula ese porcentaje. Esto no ocurre cuando usamos transform.
     auto -> Cuando usamos auto le pedimos al navegador que calcule el ancho en función del espacio disponible.
+
   HEIGHT:
     % -> Cuando estamos dentro de un contenedor, este tiene que tener un alto declarado, si no no podrá calcular el porcentaje. Si se le aplica una medida con porcentaje se sustituirá automaticamente por auto.
     auto -> Cuando utilizamos auto el alto lo calculará el navegador en base al contenido del elemento
   NOTA: Height es una propiedad que tenéis que usar con mucho cuidado. Si no es necesario establecer un alto, dejad que el contenido sea el que decida el alto del elemento.
+
   VIEWPORT
     El viewport es el área útil donde se mostrará la página web. IMPORTANTE, tened en cuenta que es el area visible sin hacer scroll.
     Podemos usar el viewport como medida de varias formas:
@@ -69,28 +71,29 @@ html {
   } */
   
   .box {
-    width: 100%;
+    width: 300px;
     /* max-width: 600px;
     min-width: 300px; */
-    height: 60vw;
+    height:300px;
     /* max-height: 300px;
     min-height: 100px; */
     /* padding-bottom: 30px; */
+    
     background-color: lightgreen;
   }
   
-  /* .box-children {
-    position: sticky;
-    top: 0;
+.box-children {
+    /* position: sticky; */
+    /* top: 0; */
+    position: absolute;
     width: 50%;
-     width: 50vw;
-    width: 30vmax;
-    height: 150px;
+    height: 50%;
+   
     background-color: lightseagreen;
-  } */
+  } 
   
    .title {
-    font-size: 3em;
+    font-size: 2rem;
   } 
   
  .link {
