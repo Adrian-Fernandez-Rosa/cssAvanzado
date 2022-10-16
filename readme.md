@@ -61,9 +61,11 @@ https://github.com/Adrian-Fernandez-Rosa/cssAvanzado/blob/master/41%20ordenar%20
 
 ## Video 41 Ordenar Propiedades
 
-
-
-
-
 <a href="https://github.com/Adrian-Fernandez-Rosa/cssAvanzado/blob/master/41%20ordenar%20propiedades/propiedades.css" 
  target="_blank">Ordenar propiedades</a>
+ 
+ 
+ ## Video 43 Medidas
+
+<a href="[https://github.com/Adrian-Fernandez-Rosa/cssAvanzado/blob/master/41%20ordenar%20propiedades/propiedades.css](https://github.com/Adrian-Fernandez-Rosa/cssAvanzado/tree/master/42%20medidas%20absolutas" 
+ target="_blank">Medidas</a>
